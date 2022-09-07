@@ -1,3 +1,5 @@
+package src;
+
 public class Days {
     public static void main(String[] args) {
         int days = 5000;

@@ -1,3 +1,5 @@
+package src;
+
 public class Time {
     public static void main(String[] args) {
         int seconds = 86400;
